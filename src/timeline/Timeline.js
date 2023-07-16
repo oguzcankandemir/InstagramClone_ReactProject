@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { useState } from "react";
 import Post from "./Posts/Post";
 import Suggestions from "./Suggestions";
@@ -58,18 +57,3 @@ function Timeline() {
 }
 
 export default Timeline;
-=======
-import React from "react";
-import Suggestions from "./Suggestions";
-import "./Timeline.css";
-function Timeline() {
-  return  <div className="timeline">
-    <div className="timeline__left">Timeline</div>
-    <div className="timeline__right">
-      <Suggestions />
-    </div>
-  </div>;
-}
-
-export default Timeline
->>>>>>> cbfc37b2a869ef331c191a1c45617f3a78a6554a

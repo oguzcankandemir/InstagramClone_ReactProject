@@ -1,5 +1,4 @@
 .timeline {
-<<<<<<< HEAD
   display: flex;
   flex-direction: row;
 }
@@ -14,19 +13,3 @@
 
 .timeline__posts {
 }
-=======
-    display: flex;
-    flex-direction: row;
-  }
-  
-  .timeline__left {
-    flex: 0.7;
-  }
-  
-  .timeline__right {
-    flex: 0.3;
-  }
-  
-  .timeline__posts {
-  }
->>>>>>> cbfc37b2a869ef331c191a1c45617f3a78a6554a
